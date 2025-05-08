@@ -1,0 +1,12 @@
+,"ROA Total Assets, Percent",ROE Total Equity %,"EBITDA/Tot Assets, %",Tot Assets/Comm Eqty,"Total Debt to Total Equity, Percent","Long Term Debt to Total Capital, Percent",Quick Ratio,"EBITDA Margin, Percent","Total Cash Dividends Paid, Cumulative",Growth,risk
+"ROA Total Assets, Percent",1.0,0.9,0.86,0.11,0.1,-0.1,-0.01,0.14,-0.11,0.03,0.09
+ROE Total Equity %,0.9,1.0,0.78,0.09,0.11,0.01,-0.01,0.12,-0.13,0.05,0.1
+"EBITDA/Tot Assets, %",0.86,0.78,1.0,0.12,0.1,-0.06,-0.02,0.16,-0.12,0.05,0.14
+Tot Assets/Comm Eqty,0.11,0.09,0.12,1.0,0.59,-0.05,-0.03,0.05,-0.07,0.08,-0.03
+"Total Debt to Total Equity, Percent",0.1,0.11,0.1,0.59,1.0,0.03,-0.03,0.05,-0.04,0.09,-0.04
+"Long Term Debt to Total Capital, Percent",-0.1,0.01,-0.06,-0.05,0.03,1.0,-0.0,0.01,-0.0,0.0,0.05
+Quick Ratio,-0.01,-0.01,-0.02,-0.03,-0.03,-0.0,1.0,-0.0,0.01,-0.09,-0.0
+"EBITDA Margin, Percent",0.14,0.12,0.16,0.05,0.05,0.01,-0.0,1.0,-0.02,0.0,0.03
+"Total Cash Dividends Paid, Cumulative",-0.11,-0.13,-0.12,-0.07,-0.04,-0.0,0.01,-0.02,1.0,0.01,0.04
+Growth,0.03,0.05,0.05,0.08,0.09,0.0,-0.09,0.0,0.01,1.0,0.05
+risk,0.09,0.1,0.14,-0.03,-0.04,0.05,-0.0,0.03,0.04,0.05,1.0
